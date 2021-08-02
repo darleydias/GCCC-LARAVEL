@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Processo;
+use App\Models\Processo;
 
 class TarefasController extends Controller
 {
